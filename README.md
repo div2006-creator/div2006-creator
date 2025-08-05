@@ -7,6 +7,6 @@ I'm a passionate developer and creator!
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with frontend frameworks
 - 💬 Ask me about HTML, CSS, and GitHub
-- 📫 How to reach me: your-email@example.com
+- 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning ideas into digital art
