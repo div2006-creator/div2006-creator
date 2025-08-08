@@ -1,11 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Divyansh Sharma
 
-I'm a passionate developer and creator!
+Aspiring developer passionate about technology, problem-solving, and continuous learning.
 
-- 🔭 I’m currently working on cool web projects
-- 🌱 I’m currently learning JavaScript, Python, and Git
-- 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with frontend frameworks
-- 💬 Ask me about HTML, CSS, and GitHub 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love turning ideas into digital art
+## 🚀 About Me
+- 🌱 I’m currently learning: HTML, CSS, Javascript
+- 💼 I’m looking to collaborate on: open source, internships, projects 
+- 🧑 Pronouns: He/Him 
+- ⚡ Fun fact: I love chess, music, try to develop webpages.
+
+## 🛠️ Skills & Platforms
+- Programming Languages: C, Java, Python
+- Platforms: Linkdin, Hackerrank , Leetcode
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/divyansh-sharma-5166ba331)
+
+
+---
+
+*Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
