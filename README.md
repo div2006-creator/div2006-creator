@@ -85,7 +85,27 @@ I enjoy turning ideas into working projects, experimenting with new technologies
 **Tech:** `Next.js` `React` `PostgreSQL` `Prisma` `LiveKit`
 
 ---
+🛒 Fabbit – Business Management Platform
 
+Full-stack business management and e-commerce platform for Fabbit.
+
+* 🛍️ Product and category management
+* 👨‍💼 Admin dashboard with role-based access
+* 💳 Razorpay payment integration
+* 🔐 Authentication and secure API handling
+* 🌐 Deployed with custom domain
+* 🌐 Page Pulse – Web Page Audit Tool
+
+---
+Web auditing tool developed for the Digital Heroes Training Task.
+
+* 🔍 Analyze any webpage using its URL
+* 📊 HTTP status and response time analysis
+* 📝 Extract title, meta description, and H1 count
+* 🖼️ Detect images missing alt text
+* ⚡ Calculate approximate page word count
+
+---
 ### 🤖 Grocery Item 6D Pose Estimation
 
 **Computer vision project developed for a Duality AI Hackathon.**
