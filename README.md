@@ -162,11 +162,9 @@ Worked on **OceanGuard**, a platform for crowdsourced ocean hazard reporting and
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=div2006-creator&theme=tokyo-night&hide_border=true"/>
+<img src="https://ghchart.rshah.org/div2006-creator" alt="GitHub Contribution Graph"/>
 
 </div>
 
