@@ -43,6 +43,7 @@ I enjoy turning ideas into working projects, experimenting with new technologies
 
 ### 🤖 AI / ML
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge\&logo=spacy\&logoColor=white)
 
@@ -57,65 +58,22 @@ I enjoy turning ideas into working projects, experimenting with new technologies
 
 ## 🚀 Featured Projects
 
-### 🕵️ AI-Powered Criminal Network Analysis System
+### 🌊 OceanGuard
 
-A platform for analyzing relationships and connections within criminal network data.
+**Integrated platform for crowdsourced ocean hazard reporting and social media analytics.**
 
-* 📊 Interactive relationship and network analysis
-* 📞 CDR and transaction data analysis
-* 🔗 Graph-based entity relationships
-* 📄 FIR, surveillance and structured data processing
-* 🔍 Distinguishes facts, inferences and unresolved conflicts
-* ⚡ Real-time data updates
+* 🌐 Interactive hazard reporting platform
+* 🗺️ Map-based visualization of ocean hazards
+* 🤖 AI-powered social media analysis
+* 📊 Analytics and real-time alert dashboard
 
-**Tech:** `React` `TypeScript` `FastAPI` `Python` `Cytoscape.js` `Recharts` `Neo4j` `PostgreSQL`
-
----
-
-### 🛒 Fabbit – Business Management Platform
-
-A full-stack business management and e-commerce platform designed as a practical alternative to expensive e-commerce solutions.
-
-* 🛍️ Product and category management
-* 👨‍💼 Admin dashboard with role-based access
-* 🔐 Authentication and secure API handling
-* 💳 Razorpay payment integration
-* 🌐 Custom domain deployment
-
-**Tech:** `Next.js` `React` `PostgreSQL` `Prisma` `Razorpay`
-
----
-
-### 🌐 Page Pulse – Web Page Audit Tool
-
-A web auditing tool developed for the **Digital Heroes Training Task**.
-
-* 🔍 Analyze any webpage using its URL
-* 📊 HTTP status and response time analysis
-* 📝 Extract title, meta description and H1 count
-* 🖼️ Detect images missing alt text
-* ⚡ Calculate approximate page word count
-
-**Tech:** `JavaScript` `HTML` `CSS` `Web APIs`
-
----
-
-### 🤖 Grocery Item 6D Pose Estimation
-
-Computer vision project developed for a **Duality AI Hackathon**.
-
-* 🧠 6D pose estimation for grocery objects
-* 🤖 YOLO-based computer vision pipeline
-* 🎯 Trained using synthetic data
-* ⚡ Optimized for fast inference
-
-**Tech:** `Python` `YOLOv8` `Computer Vision` `Synthetic Data`
+**Tech:** `HTML` `CSS` `JavaScript` `Python` `spaCy` `MySQL` `REST API`
 
 ---
 
 ### 🎓 PaathShalla 2.0
 
-A modern Learning Management System designed for students and teachers.
+**A modern Learning Management System designed for students and teachers.**
 
 * 📚 Course and learning management
 * 🎥 Live classes
@@ -127,10 +85,43 @@ A modern Learning Management System designed for students and teachers.
 **Tech:** `Next.js` `React` `PostgreSQL` `Prisma` `LiveKit`
 
 ---
+🛒 Fabbit – Business Management Platform
+
+Full-stack business management and e-commerce platform for Fabbit.
+
+* 🛍️ Product and category management
+* 👨‍💼 Admin dashboard with role-based access
+* 💳 Razorpay payment integration
+* 🔐 Authentication and secure API handling
+* 🌐 Deployed with custom domain
+* 🌐 Page Pulse – Web Page Audit Tool
+
+---
+Web auditing tool developed for the Digital Heroes Training Task.
+
+* 🔍 Analyze any webpage using its URL
+* 📊 HTTP status and response time analysis
+* 📝 Extract title, meta description, and H1 count
+* 🖼️ Detect images missing alt text
+* ⚡ Calculate approximate page word count
+
+---
+### 🤖 Grocery Item 6D Pose Estimation
+
+**Computer vision project developed for a Duality AI Hackathon.**
+
+* 🧠 6D pose estimation for grocery objects
+* 🤖 YOLO-based computer vision pipeline
+* 🎯 Trained using synthetic data
+* ⚡ Optimized for fast inference
+
+**Tech:** `Python` `YOLOv8` `Computer Vision` `Synthetic Data`
+
+---
 
 ### 🏎️ Chaos Racing
 
-An arcade-style 3D racing game focused on immersive environments and gameplay.
+**An arcade-style 3D racing game project focused on immersive environments and gameplay.**
 
 * 🏁 Arcade racing gameplay
 * 🌊 Coastal-inspired environments
@@ -145,33 +136,14 @@ An arcade-style 3D racing game focused on immersive environments and gameplay.
 
 ### 🥇 Duality AI Hackathon
 
-**Team:** Virtual Warriors
-**Track:** Grocery Item 6D Pose Estimation
+**Team:** Virtual Warrior
+**Track:** Pose Estimation
 
 Worked on **Grocery Item 6D Pose Estimation** using synthetic training data and computer vision techniques.
 
 ### 💡 Smart India Hackathon
 
-Worked on an **AI-Powered Criminal Network Analysis System** for analyzing relationships and connections within criminal network data.
-
----
-
-## 🧠 Problem Solving
-
-* 💻 Solving **Data Structures & Algorithms** problems using Java
-* 🧩 Practicing **Dynamic Programming, Recursion, Graphs & Greedy Algorithms**
-* 🎯 Focused on improving problem-solving and algorithmic thinking
-* 🏆 Regularly practicing problems on **LeetCode**
-
----
-
-## 📚 Currently Learning
-
-* ☕ **Advanced Java & DSA**
-* 🧠 **Dynamic Programming & Advanced Algorithms**
-* 🌐 **Backend Development**
-* 🤖 **Machine Learning & Computer Vision**
-* 🚀 **Building Production-Ready Applications**
+Worked on **OceanGuard**, a platform for crowdsourced ocean hazard reporting and social-media analytics.
 
 ---
 
@@ -182,8 +154,6 @@ Worked on an **AI-Powered Criminal Network Analysis System** for analyzing relat
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=div2006-creator&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -192,13 +162,23 @@ Worked on an **AI-Powered Criminal Network Analysis System** for analyzing relat
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
 
 <img src="https://ghchart.rshah.org/div2006-creator" alt="GitHub Contribution Graph"/>
 
 </div>
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Java              ███████████████░░░░░
+Data Structures   ██████████████░░░░░░
+Web Development   ████████████████░░░░
+Python / AI       ████████████░░░░░░░░
+Game Development  ██████████░░░░░░░░░░
+```
 
 ---
 
@@ -236,3 +216,9 @@ Worked on an **AI-Powered Criminal Network Analysis System** for analyzing relat
 ⭐ **Thanks for visiting my profile!**
 
 </div>
+
+
+---
+
+*Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
+currently it is it
